@@ -1,0 +1,16 @@
+{
+  "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+  "data-size": 157,
+  "end-time": 148224,
+  "host-name": "SEAGMdeMac-mini.RT-AX88U",
+  "ip": "::1",
+  "latency-time": "1 ms",
+  "level": "info",
+  "method": "GET",
+  "msg": "",
+  "params": {},
+  "path": "/html",
+  "start-time": "2021-09-30 16:57:41",
+  "status": 200,
+  "time": "2021-09-30 16:57:41"
+}
